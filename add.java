@@ -1,3 +1,3 @@
- a=2
+ a=5
  b=2
- addition of a & b is a+b
+ subtraction of a & b is a-b
